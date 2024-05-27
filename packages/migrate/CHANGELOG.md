@@ -1,5 +1,17 @@
 # svelte-migrate
 
+## 1.4.2
+
+### Patch Changes
+
+- fix: bump import-meta-resolve to remove deprecation warnings ([#12240](https://github.com/sveltejs/kit/pull/12240))
+
+## 1.4.1
+
+### Patch Changes
+
+- fix: continue traversing the children of non-self-closing elements ([#12175](https://github.com/sveltejs/kit/pull/12175))
+
 ## 1.4.0
 
 ### Minor Changes
